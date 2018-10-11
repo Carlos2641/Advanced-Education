@@ -30,9 +30,9 @@ Objetivos minimos:
                 
                       Objetivos minimos do website:
                             
-                            Ligar o site a base de dados e ao se atualizar dados no site seram dados tb atualizados na base de dados e app
-                            Todos os utilizadores conseguirem consultar os seus horarios,disiciplinas e turmas e estaticias.
-                            Professores conseguirem editar e avaliar os alunos nas aulas atraves do site.
+                            Ligar o site a base de dados. O utilizador ao atualizar os dados no site, estes também seram atualizados na base de dados e app
+                            Todos os utilizadores conseguirem consultar os seus horarios,disiciplinas,turmas e estatisticas.
+                            Professores conseguirem editar e avaliar os alunos nas aulas através do site.
                             
                             Funcionalidades:
                             
